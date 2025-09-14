@@ -53,10 +53,10 @@ Dependencies are listed in [requirements.txt](requirements.txt).
 `Congratulations! You have won a free lottery ticket. Call now to claim your prize!`
 
 **Prediction:**  
-`🚨Spam`
+`🚨 Spam`
 
 **Example Input:**  
 `Hey, are we still meeting at 6 pm for dinner?`  
 **Prediction:**  
-`✅Ham`
+`✅ Ham`
 
